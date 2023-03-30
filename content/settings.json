@@ -2,12 +2,12 @@
   "siteMetadata": {
     "language": "en",
     "siteUrl": "",
-    "title": "Gatsby Starter for Portfolio Minimal",
-    "titleTemplate": "%s · Portfolio Minimal",
-    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
-    "author": "Konstantin Münster",
-    "avatar": "../content/images/gatsby.png",
-    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "title": "Bahareh-Izadpanah-portfolio",
+    "titleTemplate": "Bahareh-portfolio",
+    "description": "",
+    "author": "Bahareh Izadpanah",
+    "avatar": "",
+    "bio": "",
     "social": {
       "github": "https://github.com/b-izad",
       "linkedin": "https://www.linkedin.com/in/bahareh-izadpanah/",
@@ -28,8 +28,7 @@
         "url": "/https://drive.google.com/drive/my-drive"
       },
       "footer": [
-        { "label": "Privacy", "url": "/privacy" },
-        { "label": "Imprint", "url": "/imprint" }
+        { "label": "2023 Bahareh Izadpanah"}
       ]
     },
     "featureToggles": {
