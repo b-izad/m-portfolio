@@ -1,6 +1,9 @@
 module.exports = {
   plugins: [
     {
+      pathPrefix: "https://github.com/b-izad/m-portfolio",
+    },
+    {
       resolve: "gatsby-theme-portfolio-minimal",
       options: {
         siteUrl: "https://gatsby-starter-portfolio-minimal-theme.netlify.app/", // Used for sitemap generation
