@@ -2,47 +2,100 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "Full Stack Project",
+      "title": "Inspiration Board",
+      "description": "The Inspiration Board is a visually stunning and interactive web application designed to help users collect, organize, and share their creative ideas and inspiration",
+      "tags": [],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "src": "../../images/inspire.jpg",
         "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "linkTo": ""
       },
       "links": [
         {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        },
-        {
           "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://ancient-taiga-79264.herokuapp.com/"
         }
       ]
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "Backend Project",
+      "title": "Task List API",
+      "description": "The Task List API is a user-friendly web service for managing to-do lists. It uses RESTful architecture to support CRUD operations on tasks, with secure authentication and authorization to protect user data.",
+      "tags": ["Flask", "SQLAlchemy"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
+        "src": "../../images/to do.jpg",
+        "alt": "Task List",
+        "linkTo": "https://github.com/b-izad/task-list-api"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/b-izad/task-list-api"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Frontend Project",
+      "title": "Chat Log",
+      "description": "Chat Log is a chat messenger-style application that displays a log of chat messages between two people, using static data from a JSON file",
+      "tags": ["React", "HTML", "CSS"],
+      "image": {
+        "src": "../../images/chat.jpg",
+        "alt": "Chat Log application",
+        "linkTo": "https://github.com/b-izad/react-chatlog"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/b-izad/react-chatlog"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Frontend Project",
+      "title": "Weather Report",
+      "description": "Weather Report is a fun, small weather app that focuses on displaying the weather. This application set the weather using user interaction and get the weather from a 3rd party API, OpenWeather",
+      "tags": ["Javacript","CSS","HTML"],
+      "image": {
+        "src": "../../images/sun.jpeg",
+        "alt": "Weather App",
+        "linkTo": "https://github.com/b-izad/weather-report"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/b-izad/weather-report "
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Backend Project",
+      "title": "Hello Books API",
+      "description": "The Hello Books API is a user-friendly web service for giving us access to a database with information on books. It uses RESTful architecture to support CRUD operations on Books, with secure authentication and authorization to protect user data.",
+      "tags": ["Flask", "SQLAlchemy"],
+      "image": {
+        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "alt": "Books API",
+        "linkTo":  "https://github.com/b-izad/hello-books-api "
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/b-izad/hello-books-api "
         }
       ]
     }
+
   ],
   "button": {
-    "visible": true,
+    "visible": false,
     "label": "Visit on Github",
-    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+    "url": ""
   }
+  
 }
