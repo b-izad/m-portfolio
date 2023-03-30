@@ -15,7 +15,7 @@
   },
   "description": "I am a full stack developer. I am passionate about building excellent software that improves the lives of those around me!",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
-    "showIcons": false
+    "from": ["LinkedIn", "Github", "Mail"],
+    "showIcons": true
   }
 }
