@@ -15,7 +15,7 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Portfolio" },
+    "logo": { "text": "" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
