@@ -7,13 +7,11 @@
     "develop": "gatsby develop",
     "build": "gatsby build",
     "serve": "gatsby serve",
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
-  },
-  "engines": {
-    "node": ">=18.0.0"
+    "deploy": "gatsby build && gh-pages -d public -b main",
+    "gh-dep": "gh-pages -d public -b main"
   },
   "dependencies": {
-    "gatsby": "^5.0.1",
+    "gatsby": "5.8.1",
     "gatsby-theme-portfolio-minimal": "latest",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
